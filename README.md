@@ -70,8 +70,7 @@ for i in range(n):
 ```
 
 ## Output:
-
-![437951283-2adfea22-ab3c-4412-8df3-2b446afeb00c](https://github.com/user-attachments/assets/2106947d-8059-49cc-bef9-536d6560b3bd)
+![alt text](image.png)
 
 
 ## Result:
